@@ -269,7 +269,6 @@ myNewCar.getFromTrunk(.bag)
 myNewCar.putInTrunk(yourBaggage: .bag, amount: 2)
 
 print("Trunk")
-print("-------------------")
 myTunkCar.getFromTrunkTrunk(.suitcase)
 myTunkCar.putInTrunkTrunk(yourBaggage: .furniture, amount: 1)
 print("-------------------")
